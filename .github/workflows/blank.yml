@@ -23,8 +23,8 @@ jobs:
           python update.py
       - name: Git commit
         run: |
-          git config --global user.email 2362020227@qq.com
-          git config --global user.name azmiao
+          git config --global user.email melody@yunmengdu.cn
+          git config --global user.name MelodyYuuka
           git add .
           git commit -m "Action:`date` - data update finished!"
           git pull --rebase
