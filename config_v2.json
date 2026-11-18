@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-09-18T03:13:39.757000+00:00",
+        "updatedAt": "2026-11-16T09:01:25.462000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-09-18T03:13:39.757000+00:00",
+        "revisedAt": "2026-11-16T09:01:25.462000+00:00",
         "name": "デアリングタクト",
         "cn_name": "谋勇兼备",
         "en": "Daring Tact",
@@ -11721,7 +11721,7 @@
         "weight": "自然な推移",
         "size": "B80・W55・H82",
         "detail": "厳しくも美しい大自然の中でのびのびと育った、朗らかで礼儀正しく芯の強いウマ娘。\n自分を育んでくれた故郷の素晴らしさを証明するという夢のため、日夜真摯に修行中。\n先輩のデアリングハートと共に山籠もりに向かう姿がよく目撃されている。",
-        "movie_id": "",
+        "movie_id": "v8740_szNAA",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -11816,16 +11816,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "F",
+            "mile": "A",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "D",
+            "center": "A",
+            "chase": "F"
         }
     },
     "sakuralaurel": {
